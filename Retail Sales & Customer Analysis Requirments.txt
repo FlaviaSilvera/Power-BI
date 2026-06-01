@@ -1,0 +1,32 @@
+A German based online retail company sells unique all occasion giftware. The customers of the company are retail as well as wholesalers.
+
+The company has collected data containing all the transactions that took place between 2009 and 2011. The dataset contains eight attributes or columns. They are:
+
+1. The invoice number attribute is a six-digit number. It is a unique value assigned to a transaction. If an invoice number begins with the letter ‘c’, it means that the particular invoice was cancelled.
+
+2. The stock code attribute is the product item code. It is a unique five-digit integral number assigned to a product.
+
+3. The description attribute is the name of a product item.
+
+4. The quantity attribute is the total quantity of each product for a particular transaction.
+
+5. The invoice date attribute contains the day and time when a specific transaction took place.
+
+6. The unit price attribute is the price of one unit of a product in sterling.
+
+7. The customer ID attribute is a unique five-digit integral number assigned to a customer.
+
+8. The country attribute is the name of the country where a customer resides.
+
+Your goal, as a data analyst, is to conduct data transformation, modelling, and visualizations to answer questions that can influence business decisions. The questions to which the company needs answer to are:
+
+- Which countries had the highest and lowest product demands?
+
+- Which products were the highest and lowest contributors to revenue generation?
+
+- Is there any pattern in the demand for the products as per weather conditions? Consider four weather conditions, namely, Spring, from March to May; Summer, from June to August; Autumn, from September to November; and Winter, from December to February.
+
+- Who are the top customers in terms of contribution to revenue?
+
+- What is the rate of repeat customers? The repeat customer rate is calculated by dividing the number of return customers by the total number of customers and multiplying by 100.
+
